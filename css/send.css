@@ -1,0 +1,109 @@
+form{
+    background-color: rgba(5, 4, 20, 1);
+    width: 570px;
+    margin: auto;
+    position: relative;
+    top: 60px;
+    border: 1px solid rgba(103, 99, 123, 1);
+    border-radius: 2px;
+    padding: 40px 0px;
+}
+.heading{
+    font-size: 30px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    margin-left: 32%;
+}
+.buttons button{
+    margin-top: 40px;
+    padding: 15px 100px;
+    border: none;
+    background-color: rgba(7, 12, 28, 1);
+    color: white;
+    margin-bottom: 40px;
+}
+#bank{
+    margin-left: -4px;
+    background-color: rgba(7, 12, 28, 0);
+    border-bottom: 1px solid rgba(151, 71, 255, 1);
+}
+input{
+    width: 250px;
+    height: 30px;
+    border-radius: 3px;
+    margin-top: 3px;
+}
+input,label{
+    margin-left: 30px;
+}
+select{
+    margin-left: 29px;
+    background-color: rgba(250, 235, 215, 0);
+    border: 1px solid #9FA8C2;
+    color: #9FA8C2;
+}
+option{
+    background-color: rgba(5, 4, 20, 1);
+    border: 1px solid #9FA8C2;
+    color: #9FA8C2;
+}
+select{
+    width: 257px;
+    height: 35px;
+    border-radius: 3px;
+    margin-top: 3px;
+}
+.coin{
+    font-size: 150px;
+    position: absolute;
+    top: 210px;
+    left: 350px;
+    color: rgba(151, 71, 255, 1);
+}
+#sub{
+    background-color: rgba(151, 71, 255, 1);
+    color: white;
+    border: 1px solid rgba(151, 71, 255, 1);
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+#sub:hover{
+    background-color: rgba(151, 71, 255, 0);
+    color: rgba(151, 71, 255, 1);
+    border: 1px solid rgba(151, 71, 255, 1);
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.phone{
+    font-size: 150px;
+    position: absolute;
+    top: 240px;
+    left: 80px;
+    color: rgba(151, 71, 255, 1);
+}
+.ele{
+    position: relative;
+    left: 250px;
+}
+#sub1{
+    background-color: rgba(151, 71, 255, 1);
+    color: white;
+    border: 1px solid rgba(151, 71, 255, 1);
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: -485px;
+    margin-top: 0px;
+}
+#sub1:hover{
+    background-color: rgba(151, 71, 255, 0);
+    color: rgba(151, 71, 255, 1);
+    border: 1px solid rgba(151, 71, 255, 1);
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}

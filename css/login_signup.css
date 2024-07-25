@@ -1,0 +1,99 @@
+body{
+    overflow: hidden;
+}
+.img{
+    background-image: url("../images/signup.png");
+    padding: 1200px 0;
+    background-repeat:no-repeat;
+    background-size: 780px 800px;
+}
+.image{
+    background-image: url("../images/login.png");
+    padding: 1200px 0;
+    background-repeat:no-repeat;
+    background-size: 780px 800px;
+}
+.form{
+    background-color: #050414;
+    color:#F0EDFF;
+    padding: 60px 100px;
+    font-family: Gotham;
+}
+.form1{
+    background-color: #050414;
+    color:#F0EDFF;
+    padding: 180px 100px;
+    font-family: Gotham;
+}
+input{
+    width: 400px;
+    height: 60px;
+    border-radius: 16px;
+    background-color:rgba(240, 237, 255, 0.8);
+    margin-left: 110px;
+    padding-left: 50px;
+    border: none;
+}
+h5{
+    margin-bottom: 20px;
+    margin-left: 270px;
+    font-weight: 1000;
+}
+#sub{
+    width: 120px;
+    margin-left: 250px;
+    background-image: linear-gradient(to right, rgba(151, 71, 255, 1) , rgba(36, 38, 179, 1));
+    border: none;
+    color: white;
+    font-weight: 500;
+    padding: 1px 6px;
+    opacity: 100%;
+}
+#sub:hover{
+    opacity: 65%;
+}
+::placeholder{
+    color: rgba(28, 28, 28, 1);
+}
+p{
+    margin-left: 200px;
+    margin-top: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: white;
+}
+i{
+    position: absolute;
+    left: 1000px;
+    color: rgba(28, 28, 28, 1);
+}
+#profile{
+    top: 125px;
+}
+#phone{
+    top: 210px;
+}
+#email{
+    top: 295px;
+}
+#pass{
+    top: 380px;
+}
+#cpass{
+    top: 465px;
+}
+#phone1{
+    top: 245px;
+}
+#pass1{
+    top: 330px;
+}
+.icn{
+    position: absolute;
+    left: 230px;
+    color: rgba(28, 28, 28, 1);
+}
